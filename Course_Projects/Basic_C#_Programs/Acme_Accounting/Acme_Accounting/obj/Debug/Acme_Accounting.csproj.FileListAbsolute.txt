@@ -1,0 +1,6 @@
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\Acme_Accounting\Acme_Accounting\bin\Debug\Acme_Accounting.exe.config
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\Acme_Accounting\Acme_Accounting\bin\Debug\Acme_Accounting.exe
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\Acme_Accounting\Acme_Accounting\bin\Debug\Acme_Accounting.pdb
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\Acme_Accounting\Acme_Accounting\obj\Debug\Acme_Accounting.csproj.CoreCompileInputs.cache
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\Acme_Accounting\Acme_Accounting\obj\Debug\Acme_Accounting.exe
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\Acme_Accounting\Acme_Accounting\obj\Debug\Acme_Accounting.pdb
