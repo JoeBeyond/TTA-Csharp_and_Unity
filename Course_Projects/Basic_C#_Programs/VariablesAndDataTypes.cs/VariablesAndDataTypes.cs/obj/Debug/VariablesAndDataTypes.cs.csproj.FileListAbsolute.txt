@@ -1,0 +1,7 @@
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\VariablesAndDataTypes.cs\VariablesAndDataTypes.cs\bin\Debug\VariablesAndDataTypes.cs.exe.config
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\VariablesAndDataTypes.cs\VariablesAndDataTypes.cs\bin\Debug\VariablesAndDataTypes.cs.exe
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\VariablesAndDataTypes.cs\VariablesAndDataTypes.cs\bin\Debug\VariablesAndDataTypes.cs.pdb
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\VariablesAndDataTypes.cs\VariablesAndDataTypes.cs\obj\Debug\VariablesAndDataTypes.cs.csproj.AssemblyReference.cache
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\VariablesAndDataTypes.cs\VariablesAndDataTypes.cs\obj\Debug\VariablesAndDataTypes.cs.csproj.CoreCompileInputs.cache
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\VariablesAndDataTypes.cs\VariablesAndDataTypes.cs\obj\Debug\VariablesAndDataTypes.cs.exe
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\VariablesAndDataTypes.cs\VariablesAndDataTypes.cs\obj\Debug\VariablesAndDataTypes.cs.pdb
