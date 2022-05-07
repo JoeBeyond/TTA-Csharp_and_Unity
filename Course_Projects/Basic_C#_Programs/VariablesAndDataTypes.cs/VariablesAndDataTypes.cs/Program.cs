@@ -35,7 +35,7 @@ namespace VariablesAndDataTypes.cs
             bool isRaining = true;
             string rainingStatus = Convert.ToString(isRaining);
 
-            Console.WriteLine(questionMark);
+            Console.WriteLine(rainingStatus);
             Console.ReadLine();
         }
     }

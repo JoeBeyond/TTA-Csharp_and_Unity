@@ -1,0 +1,7 @@
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\DailyReportSubmission_Assignment.cs\DailyReportSubmission_Assignment.cs\bin\Debug\DailyReportSubmission_Assignment.cs.exe.config
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\DailyReportSubmission_Assignment.cs\DailyReportSubmission_Assignment.cs\bin\Debug\DailyReportSubmission_Assignment.cs.exe
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\DailyReportSubmission_Assignment.cs\DailyReportSubmission_Assignment.cs\bin\Debug\DailyReportSubmission_Assignment.cs.pdb
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\DailyReportSubmission_Assignment.cs\DailyReportSubmission_Assignment.cs\obj\Debug\DailyReportSubmission_Assignment.cs.csproj.AssemblyReference.cache
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\DailyReportSubmission_Assignment.cs\DailyReportSubmission_Assignment.cs\obj\Debug\DailyReportSubmission_Assignment.cs.csproj.CoreCompileInputs.cache
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\DailyReportSubmission_Assignment.cs\DailyReportSubmission_Assignment.cs\obj\Debug\DailyReportSubmission_Assignment.cs.exe
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\DailyReportSubmission_Assignment.cs\DailyReportSubmission_Assignment.cs\obj\Debug\DailyReportSubmission_Assignment.cs.pdb
