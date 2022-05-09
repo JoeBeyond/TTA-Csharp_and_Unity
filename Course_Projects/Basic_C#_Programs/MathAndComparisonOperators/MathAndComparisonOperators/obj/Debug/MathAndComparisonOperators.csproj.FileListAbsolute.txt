@@ -1,0 +1,7 @@
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\MathAndComparisonOperators.exe.config
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\MathAndComparisonOperators.exe
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\MathAndComparisonOperators.pdb
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\MathAndComparisonOperators.csproj.AssemblyReference.cache
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\MathAndComparisonOperators.csproj.CoreCompileInputs.cache
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\MathAndComparisonOperators.exe
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\MathAndComparisonOperators.pdb
