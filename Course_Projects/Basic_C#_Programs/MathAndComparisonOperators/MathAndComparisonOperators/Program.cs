@@ -39,6 +39,21 @@ namespace MathAndComparisonOperators
             int remainder = 11 % 2;
             Console.WriteLine("Eleven divided by Two has a remainder of ... " + remainder.ToString());
             Console.ReadLine();
+
+            // Operators
+
+            bool trueOrFalse = 12 < 5;
+            Console.Write(trueOrFalse.ToString());
+            Console.ReadLine();
+
+            int roomTemperature = 70;
+            int currentTemperture = 70;
+
+            bool isWarm = currentTemperture == roomTemperature;
+            Console.WriteLine(isWarm);
+            Console.ReadLine();
+
+
         }
     }
 }
