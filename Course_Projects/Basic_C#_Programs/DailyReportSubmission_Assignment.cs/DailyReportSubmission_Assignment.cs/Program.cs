@@ -26,13 +26,13 @@ namespace DailyReportSubmission_Assignment.cs
             Console.WriteLine("Your position in the above course is page " + page);
 
             Console.WriteLine("Do you need help with anything? Please answer \"true\" or \"false\".");
-            bool needHelp1 = false;
+            bool nh1 = true;
+            string needHelp1 = Console.ReadLine();
+            bool needHelp2 = Convert.ToBoolean(needHelp1);
+            Console.WriteLine(needHelp2 == nh1);
+            Console.WriteLine("OK!");
             Console.ReadLine();
-            if (needHelp1 == false)
-            {
-                Console.WriteLine("OK");
-            }
-            Console.ReadLine();
+            
 
             Console.WriteLine("Was there any positive experiences you would like to share? Please give specifics.");
             string experience = Console.ReadLine();
