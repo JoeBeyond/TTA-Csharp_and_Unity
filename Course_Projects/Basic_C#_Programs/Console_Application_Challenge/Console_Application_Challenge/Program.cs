@@ -44,7 +44,7 @@ namespace Console_Application_Challenge
             int a10 = Convert.ToInt32(a9);
             int ttl5 = a10 % 7;
             Console.WriteLine("The number is divided by 7 and the remainder will be displayed here: " + ttl5);
-            Console.ReadLine():
+            Console.ReadLine();
 
         }
     }
