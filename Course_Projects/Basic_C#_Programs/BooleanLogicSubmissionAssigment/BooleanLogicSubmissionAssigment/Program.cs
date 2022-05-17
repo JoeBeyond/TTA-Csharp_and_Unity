@@ -22,6 +22,7 @@ namespace BooleanLogicSubmissionAssigment
 
             Console.WriteLine("Have you ever had a DUI? Answer \"true\" or \"false\".");
             string response1 = Console.ReadLine();
+            bool response2 = Convert.ToBoolean(response1);
             Console.WriteLine(response1 + ", proceeding.");
             Console.ReadLine();
 
@@ -30,7 +31,10 @@ namespace BooleanLogicSubmissionAssigment
             int ticket2 = Convert.ToInt32(ticket1);
             Console.WriteLine(ticket2 + " tickets.");
 
-
+            Console.WriteLine("Find out if you are qualified.");
+            bool qualified = (age2 > 15 && response2 == false && ticket2 <= 3);
+            Console.WriteLine(qualified);
+            Console.ReadLine();
         }
     }
 }
