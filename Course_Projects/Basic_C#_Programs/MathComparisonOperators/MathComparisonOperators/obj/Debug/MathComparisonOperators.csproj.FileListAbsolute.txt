@@ -5,3 +5,10 @@ C:\Users\JoeBeyond\source\repos\MathComparisonOperators\MathComparisonOperators\
 C:\Users\JoeBeyond\source\repos\MathComparisonOperators\MathComparisonOperators\obj\Debug\MathComparisonOperators.csproj.CoreCompileInputs.cache
 C:\Users\JoeBeyond\source\repos\MathComparisonOperators\MathComparisonOperators\obj\Debug\MathComparisonOperators.exe
 C:\Users\JoeBeyond\source\repos\MathComparisonOperators\MathComparisonOperators\obj\Debug\MathComparisonOperators.pdb
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\MathComparisonOperators\MathComparisonOperators\obj\Debug\MathComparisonOperators.csproj.AssemblyReference.cache
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\MathComparisonOperators\MathComparisonOperators\obj\Debug\MathComparisonOperators.csproj.CoreCompileInputs.cache
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\MathComparisonOperators\MathComparisonOperators\obj\Debug\MathComparisonOperators.exe
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\MathComparisonOperators\MathComparisonOperators\obj\Debug\MathComparisonOperators.pdb
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\MathComparisonOperators\MathComparisonOperators\bin\Debug\MathComparisonOperators.exe.config
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\MathComparisonOperators\MathComparisonOperators\bin\Debug\MathComparisonOperators.exe
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\MathComparisonOperators\MathComparisonOperators\bin\Debug\MathComparisonOperators.pdb
