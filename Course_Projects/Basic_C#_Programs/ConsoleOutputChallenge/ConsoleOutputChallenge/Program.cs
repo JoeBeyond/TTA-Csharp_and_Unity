@@ -17,6 +17,7 @@ namespace ConsoleOutputChallenge
             string num1 = Console.ReadLine();
             int num2 = Convert.ToInt32(num1);
             Console.WriteLine("First number is: " + num2);
+            Console.ReadLine();
 
 
             Console.WriteLine("Input an integer please.");
@@ -28,6 +29,7 @@ namespace ConsoleOutputChallenge
 
             Console.WriteLine("Is the first number GREATER THAN the second?");
             Console.WriteLine(num2 > num4);
+            Console.ReadLine();
 
             // Lesser Than Operation
 
@@ -35,6 +37,7 @@ namespace ConsoleOutputChallenge
             string num5 = Console.ReadLine();
             int num6 = Convert.ToInt32(num5);
             Console.WriteLine("First number is: " + num6);
+            Console.ReadLine();
 
 
             Console.WriteLine("Input an integer please.");
@@ -44,8 +47,8 @@ namespace ConsoleOutputChallenge
             Console.ReadLine();
 
 
-            Console.WriteLine("Is the first number LESSER THAN the second?");
-            Console.WriteLine(num6 < num8);
+            Console.WriteLine("Is the first number LESSER THAN OR EQUAL TO the second?");
+            Console.WriteLine(num6 <= num8);
             Console.WriteLine("END OF TEST: Please Press ENTER to exit program.");
             Console.ReadLine();
         }
