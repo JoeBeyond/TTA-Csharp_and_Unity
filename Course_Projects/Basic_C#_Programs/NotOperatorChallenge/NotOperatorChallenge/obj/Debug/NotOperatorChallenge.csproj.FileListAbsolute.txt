@@ -1,0 +1,7 @@
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\NotOperatorChallenge\NotOperatorChallenge\bin\Debug\NotOperatorChallenge.exe.config
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\NotOperatorChallenge\NotOperatorChallenge\bin\Debug\NotOperatorChallenge.exe
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\NotOperatorChallenge\NotOperatorChallenge\bin\Debug\NotOperatorChallenge.pdb
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\NotOperatorChallenge\NotOperatorChallenge\obj\Debug\NotOperatorChallenge.csproj.AssemblyReference.cache
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\NotOperatorChallenge\NotOperatorChallenge\obj\Debug\NotOperatorChallenge.csproj.CoreCompileInputs.cache
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\NotOperatorChallenge\NotOperatorChallenge\obj\Debug\NotOperatorChallenge.exe
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\NotOperatorChallenge\NotOperatorChallenge\obj\Debug\NotOperatorChallenge.pdb
