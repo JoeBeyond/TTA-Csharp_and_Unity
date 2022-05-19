@@ -1,0 +1,7 @@
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\TernaryOperatorChallenge\TernaryOperatorChallenge\bin\Debug\TernaryOperatorChallenge.exe.config
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\TernaryOperatorChallenge\TernaryOperatorChallenge\bin\Debug\TernaryOperatorChallenge.exe
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\TernaryOperatorChallenge\TernaryOperatorChallenge\bin\Debug\TernaryOperatorChallenge.pdb
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\TernaryOperatorChallenge\TernaryOperatorChallenge\obj\Debug\TernaryOperatorChallenge.csproj.AssemblyReference.cache
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\TernaryOperatorChallenge\TernaryOperatorChallenge\obj\Debug\TernaryOperatorChallenge.csproj.CoreCompileInputs.cache
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\TernaryOperatorChallenge\TernaryOperatorChallenge\obj\Debug\TernaryOperatorChallenge.exe
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\TernaryOperatorChallenge\TernaryOperatorChallenge\obj\Debug\TernaryOperatorChallenge.pdb
