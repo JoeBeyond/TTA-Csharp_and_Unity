@@ -1,0 +1,7 @@
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\SwitchStatementChallenge\SwitchStatementChallenge\bin\Debug\SwitchStatementChallenge.exe.config
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\SwitchStatementChallenge\SwitchStatementChallenge\bin\Debug\SwitchStatementChallenge.exe
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\SwitchStatementChallenge\SwitchStatementChallenge\bin\Debug\SwitchStatementChallenge.pdb
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\SwitchStatementChallenge\SwitchStatementChallenge\obj\Debug\SwitchStatementChallenge.csproj.AssemblyReference.cache
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\SwitchStatementChallenge\SwitchStatementChallenge\obj\Debug\SwitchStatementChallenge.csproj.CoreCompileInputs.cache
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\SwitchStatementChallenge\SwitchStatementChallenge\obj\Debug\SwitchStatementChallenge.exe
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\SwitchStatementChallenge\SwitchStatementChallenge\obj\Debug\SwitchStatementChallenge.pdb
