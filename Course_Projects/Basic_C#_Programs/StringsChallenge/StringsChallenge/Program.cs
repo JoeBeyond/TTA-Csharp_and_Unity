@@ -43,6 +43,8 @@ namespace StringsChallenge
             sb3.Append("We've taken the mantle of their labor to sustain life. So appreciate that cup of Joe.");
             Console.WriteLine(sb3);
 
+            // End of Program
+
             Console.WriteLine("END");
             Console.ReadLine();
         }
