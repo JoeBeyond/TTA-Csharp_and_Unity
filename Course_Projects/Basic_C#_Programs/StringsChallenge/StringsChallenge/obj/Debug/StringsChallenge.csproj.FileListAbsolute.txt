@@ -1,0 +1,7 @@
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\StringsChallenge\StringsChallenge\bin\Debug\StringsChallenge.exe.config
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\StringsChallenge\StringsChallenge\bin\Debug\StringsChallenge.exe
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\StringsChallenge\StringsChallenge\bin\Debug\StringsChallenge.pdb
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\StringsChallenge\StringsChallenge\obj\Debug\StringsChallenge.csproj.AssemblyReference.cache
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\StringsChallenge\StringsChallenge\obj\Debug\StringsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\StringsChallenge\StringsChallenge\obj\Debug\StringsChallenge.exe
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\StringsChallenge\StringsChallenge\obj\Debug\StringsChallenge.pdb
