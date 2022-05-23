@@ -1,0 +1,7 @@
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\ArraySubmissionAssignment\ArraySubmissionAssignment\bin\Debug\ArraySubmissionAssignment.exe.config
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\ArraySubmissionAssignment\ArraySubmissionAssignment\bin\Debug\ArraySubmissionAssignment.exe
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\ArraySubmissionAssignment\ArraySubmissionAssignment\bin\Debug\ArraySubmissionAssignment.pdb
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\ArraySubmissionAssignment\ArraySubmissionAssignment\obj\Debug\ArraySubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\ArraySubmissionAssignment\ArraySubmissionAssignment\obj\Debug\ArraySubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\ArraySubmissionAssignment\ArraySubmissionAssignment\obj\Debug\ArraySubmissionAssignment.exe
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\ArraySubmissionAssignment\ArraySubmissionAssignment\obj\Debug\ArraySubmissionAssignment.pdb
