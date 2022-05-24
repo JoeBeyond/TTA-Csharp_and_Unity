@@ -33,8 +33,16 @@ namespace Assignment1
             }
             while (b <= 2);
 
+            Console.ReadLine();
 
-            Console.WriteLine("END");
+
+            for (int c = 0; c < 10; c++)
+            {
+                Console.WriteLine("Infinite");
+                b++;
+            }
+            while (b >= 10) ;
+
             Console.ReadLine();
         }
     }
