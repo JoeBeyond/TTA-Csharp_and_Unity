@@ -81,6 +81,42 @@ namespace Assignment1
             Console.ReadLine();
 
 
+            Console.WriteLine("Search for a person; Alice, James, Brie or Sam.");
+
+            List<string> names = new List<string>() { "Alice", "James", "Brie", "Sam" };
+
+            int j = 0;
+            int index = 0;
+            bool var1 = false;
+            int ab1 = 0;
+
+            while (!var1)
+            {
+                j = 0;
+                string nameA = Convert.ToString(Console.ReadLine());
+
+                foreach (string nameB in names)
+                {
+                    if (nameB == nameA)
+                    {
+                        index = j;
+                        ab1 = j + 1;
+                    }
+                    j++;
+                }
+
+                if (ab1 == 0)
+                {
+                    Console.WriteLine("Name is not valid.");
+                }
+                else
+                {
+                    var1 = true;
+                }
+            }
+
+            Console.WriteLine(index);
+
 
 
 
