@@ -81,12 +81,12 @@ namespace Assignment1
             Console.ReadLine();
 
 
-            Console.WriteLine("Search for a person; Alice, James, Brie or Sam.");
-
+            Console.WriteLine("Search for a person, please input first name; Alice, James, Brie or Sam.");
             List<string> names = new List<string>() { "Alice", "James", "Brie", "Sam" };
 
             int j = 0;
             int index = 0;
+
             bool var1 = false;
             int ab1 = 0;
 
@@ -109,18 +109,70 @@ namespace Assignment1
                 {
                     Console.WriteLine("Name is not valid.");
                 }
+
                 else
                 {
                     var1 = true;
                 }
             }
 
-            Console.WriteLine(index);
+            Console.WriteLine("Here is your index element:" + index);
+            Console.ReadLine();
 
 
+            List<string> measurements = new List<string>() { "Inches", "Feet", "Yards", "Inches" };
+            Console.WriteLine("Input a measurement; Inches, Feet, Yards.");
+
+            string inputMeasurement = Console.ReadLine();
+
+            int indexCounter = 0;
+
+            for (indexCounter = 0; indexCounter < measurements.Count; indexCounter++)
+            {
+                if (inputMeasurement == measurements[indexCounter])
+                {
+                    Console.WriteLine(indexCounter);
+                }
+            }
+            Console.ReadLine();
 
 
+            Console.WriteLine("Here is a list of strings ( Fruits ).");
+            List<string> fruitSmoothie = new List<string>() { "Bananna", "Mango", "Orange", "Mango", "Pineapple" };
+            List<string> doubleIngredient = new List<string>();
 
+            foreach (string fruit in fruitSmoothie)
+            {
+                if (doubleIngredient.Contains(fruit))
+                {
+                    Console.WriteLine("This fruit has been seen before " + fruit);
+                }
+
+                else
+                {
+                    Console.WriteLine("This fruit has not been seen before " + fruit);
+                    doubleIngredient.Add(fruit);
+                }
+            }
+
+            //bool upgradeItem = true;
+            //bool money = true;
+            //bool satisfiedCustomer = true;
+            //bool endTransaction = true;
+
+            //foreach (string fruits in fruitSmoothie)
+            //{
+            
+            //    if (upgradeItem == money)
+            //    {
+            //        doubleIngredient.Add(fruits);
+            //    }
+
+            //    else if (satisfiedCustomer == endTransaction)
+            //    {
+            //        Console.WriteLine("Enjoy your " + doubleIngredient + " smoothie!");
+            //    }
+            //}
 
             Console.WriteLine("END of Program");
             Console.ReadLine();
