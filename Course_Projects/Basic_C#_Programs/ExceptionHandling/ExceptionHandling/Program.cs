@@ -42,7 +42,7 @@ namespace ExceptionHandling
 
             finally
             {
-                Console.WriteLine("END preogram");
+                Console.WriteLine("END program");
                 Console.ReadLine();
             }
         }
