@@ -11,6 +11,7 @@ namespace Assignment1
         static void Main(string[] args)
         {
             // Initalize array
+
             string[] array1 = new string[] { "Hi", "Hello", "Hey" };
             Console.WriteLine("Input some text please.");
             string input1 = Console.ReadLine();
@@ -18,8 +19,14 @@ namespace Assignment1
 
             for (int i = 0; i < array1.Length; i++)
             {
-                Console.WriteLine("Here is the string with user input tied to end: " + array1[i] + input1);
+                array1[i] = array1[i] + input1;
             }
+
+            for (int i = 0; i < array1.Length; i++)
+            {
+                Console.WriteLine("Here is the string with user input tied to end: " + array1[i]);
+            }
+
             Console.WriteLine("Press ENTER");
             Console.ReadLine();
 
@@ -44,7 +51,6 @@ namespace Assignment1
                 Console.WriteLine("C WAS Infinite...");
                 b++;
             }
-            while (b == 10);
 
             Console.WriteLine("Until B became equal to 10");
             Console.ReadLine();
@@ -101,6 +107,7 @@ namespace Assignment1
                     {
                         index = j;
                         ab1 = j + 1;
+                        break;
                     }
                     j++;
                 }
