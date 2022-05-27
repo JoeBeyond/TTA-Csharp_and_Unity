@@ -1,0 +1,7 @@
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\ExceptionAssignment\ExceptionAssignment\bin\Debug\ExceptionAssignment.exe.config
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\ExceptionAssignment\ExceptionAssignment\bin\Debug\ExceptionAssignment.exe
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\ExceptionAssignment\ExceptionAssignment\bin\Debug\ExceptionAssignment.pdb
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\ExceptionAssignment\ExceptionAssignment\obj\Debug\ExceptionAssignment.csproj.AssemblyReference.cache
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\ExceptionAssignment\ExceptionAssignment\obj\Debug\ExceptionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\ExceptionAssignment\ExceptionAssignment\obj\Debug\ExceptionAssignment.exe
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\ExceptionAssignment\ExceptionAssignment\obj\Debug\ExceptionAssignment.pdb
