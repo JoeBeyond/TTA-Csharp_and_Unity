@@ -1,0 +1,7 @@
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\21BlackJackGame\21BlackJackGame\bin\Debug\21BlackJackGame.exe.config
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\21BlackJackGame\21BlackJackGame\bin\Debug\21BlackJackGame.exe
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\21BlackJackGame\21BlackJackGame\bin\Debug\21BlackJackGame.pdb
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\21BlackJackGame\21BlackJackGame\obj\Debug\21BlackJackGame.csproj.AssemblyReference.cache
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\21BlackJackGame\21BlackJackGame\obj\Debug\21BlackJackGame.csproj.CoreCompileInputs.cache
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\21BlackJackGame\21BlackJackGame\obj\Debug\21BlackJackGame.exe
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\21BlackJackGame\21BlackJackGame\obj\Debug\21BlackJackGame.pdb
