@@ -14,7 +14,7 @@ namespace CallingMethodsAssignment
 
             IntegerMath obj1 = new IntegerMath();
 
-            Console.WriteLine("Please Input a mnumber.");
+            Console.WriteLine("Please Input a number.");
             int num1 = Convert.ToInt32(Console.ReadLine());
             int result1 = obj1.AddNumber(num1);
             Console.WriteLine(result1);
