@@ -8,20 +8,22 @@ namespace MainMethod
 {
     public class DisplayResult
     {
-        public int Integer(int a3)
+        // Ovreloading a method
+
+        public int MathMethod(int a3)
         {
             int math1 = a3 * 111 / 32 + 9472 - 685;
             return math1;
         }
 
-        public int Decimal(decimal b5)
+        public int MathMethod(decimal b5)
         {
-            decimal x = b5 + 3;
+            decimal x = b5 + 39.3m * 39.3m;
             int convert = Convert.ToInt32(x);
             return convert;
         }
 
-        public int String(string c7)
+        public int MathMethod(string c7)
         {
             try
             {
