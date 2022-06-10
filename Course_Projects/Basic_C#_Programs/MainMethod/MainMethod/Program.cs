@@ -19,12 +19,12 @@ namespace MainMethod
 
             Console.WriteLine("Please input a decimal.");
             decimal dec1 = Convert.ToDecimal(Console.ReadLine());
-            decimal result2 = data.Decimal(dec1);
+            int result2 = data.Decimal(dec1);
             Console.WriteLine(result2);
 
             Console.WriteLine("Please input a string.");
             string str1 = Convert.ToString(Console.ReadLine());
-            string result3 = data.String(str1);
+            int result3 = data.String(str1);
             Console.WriteLine(result3);
 
             Console.WriteLine("END PROGRAM");

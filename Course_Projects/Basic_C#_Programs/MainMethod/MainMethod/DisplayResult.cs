@@ -14,33 +14,28 @@ namespace MainMethod
             return math1;
         }
 
-        public decimal Decimal(decimal b5)
+        public int Decimal(decimal b5)
         {
-            decimal decimal1 = b5 + 182.387m * 23.374m;
-            Math.Round(decimal1);
-            return decimal1;
+            decimal x = b5 + 3;
+            int convert = Convert.ToInt32(x);
+            return convert;
         }
 
-        public string String(string c7)
+        public int String(string c7)
         {
-            string string1 = c7;
-
             try
             {
-                //string string1 = c7;
-
                 int dataTypeConversion = Convert.ToInt32(c7);
-
-                Console.WriteLine(dataTypeConversion);
+                int result = dataTypeConversion + 5;
+                return result;
             }
             catch (System.FormatException xy)
             {
                 Console.WriteLine(xy.Message + " , terminating program.");
                 Console.ReadLine();
                 Environment.Exit(0);
+                return 0;
             }
-
-            return string1;
         }
     }
 }
