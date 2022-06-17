@@ -10,16 +10,22 @@ namespace _21BlackJackGame
     {
         static void Main(string[] args)
         {
-            Deck deck = new Deck();
-            deck.Shuffle(3);
+            TwentyOneGame game = new TwentyOneGame();
+            game.Players = new List<string>() { "Archduke Sycrab", "General Byronaxis", "Doctor Fyriloth" };
+            game.ListPlayers();
+            game.Play();
+            Console.ReadLine();
+
+            //Deck deck = new Deck();
+            //deck.Shuffle(3);
 
             //deck = Shuffle(deck);
             
 
-            foreach (Card card in deck.Cards)
-            {
-                Console.WriteLine(card.Face + " of " + card.Suit);
-            }
+            //foreach (Card card in deck.Cards)
+            //{
+            //    Console.WriteLine(card.Face + " of " + card.Suit);
+            //}
 
             
 
@@ -38,9 +44,9 @@ namespace _21BlackJackGame
 
 
 
-            Console.WriteLine(deck.Cards.Count);
+            //Console.WriteLine(deck.Cards.Count);
 
-            Console.ReadLine();
+            //Console.ReadLine();
         }
 
         
