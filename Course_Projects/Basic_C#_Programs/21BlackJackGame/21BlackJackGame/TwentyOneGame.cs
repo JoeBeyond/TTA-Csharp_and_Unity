@@ -10,7 +10,7 @@ namespace _21BlackJackGame
     {
         public void Play()
         {
-            throw new NotImplementedException;
+            throw new NotImplementedException();
         }
     }
 }
