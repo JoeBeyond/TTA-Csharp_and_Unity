@@ -16,48 +16,17 @@ namespace _21BlackJackGame
             game.Play();
             Console.ReadLine();
 
-            //Deck deck = new Deck();
-            //deck.Shuffle(3);
+            Deck deck = new Deck();
+            deck.Shuffle(3);
 
-            //deck = Shuffle(deck);
-            
+            foreach (Card card in deck.Cards)
+            {
+                Console.WriteLine(card.Face + " of " + card.Suit);
+            }
 
-            //foreach (Card card in deck.Cards)
-            //{
-            //    Console.WriteLine(card.Face + " of " + card.Suit);
-            //}
+            Console.WriteLine(deck.Cards.Count);
 
-            
-
-
-            //deck.Cards = new List<Card>();
-
-            //Card cardOne = new Card();
-            //cardOne.Face = "Queen";
-            //cardOne.Suit = "Spades";
-
-            //deck.Cards.Add(cardOne);
-
-            //Console.WriteLine(deck.Cards[0].Face + " of " + deck.Cards[0].Suit);
-
-
-
-
-
-            //Console.WriteLine(deck.Cards.Count);
-
-            //Console.ReadLine();
+            Console.ReadLine();
         }
-
-        
-
-        //public static Deck Shuffle(Deck deck, int times)
-        //{
-        //    for (int i = 0; i < times; i++)
-        //    {
-        //        deck = Shuffle(deck);
-        //    }
-        //    return deck;
-        //}
     }
 }
