@@ -13,7 +13,7 @@ namespace _21BlackJackGame
             TwentyOneGame game = new TwentyOneGame();
             game.Players = new List<string>() { "Archduke Sycrab", "General Byronaxis", "Doctor Fyriloth" };
             game.ListPlayers();
-            game.Play();
+            
             Console.ReadLine();
 
             Deck deck = new Deck();
