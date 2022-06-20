@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _21BlackJackGame
 {
-    public class TwentyOneGame : Game
+    public class TwentyOneGame : Game, IWalkAway
     {
         public override void Play()
         {
@@ -16,6 +16,11 @@ namespace _21BlackJackGame
         {
             Console.WriteLine("21 Players");
             base.ListPlayers();
+        }
+
+        public void WalkAway(Player player)
+        {
+            throw new NotFiniteNumberException();
         }
     }
 }
