@@ -10,9 +10,16 @@ namespace _21BlackJackGame
     {
         static void Main(string[] args)
         {
-            TwentyOneGame game = new TwentyOneGame();
-            game.Players = new List<string>() { "Archduke Sycrab", "General Byronaxis", "Doctor Fyriloth" };
-            game.ListPlayers();
+            Game game = new TwentyOneGame();
+            game.Players = new List<Player>();
+            Player player = new Player();
+            player.Name = "Joe";
+            game += player;
+            game -= player;
+
+            //TwentyOneGame game = new TwentyOneGame();
+            //game.Players = new List<string>() { "Archduke Sycrab", "General Byronaxis", "Doctor Fyriloth" };
+            //game.ListPlayers();
             
             Console.ReadLine();
 
