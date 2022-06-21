@@ -1,0 +1,7 @@
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\OperatorsOverloaded\OperatorsOverloaded\bin\Debug\OperatorsOverloaded.exe.config
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\OperatorsOverloaded\OperatorsOverloaded\bin\Debug\OperatorsOverloaded.exe
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\OperatorsOverloaded\OperatorsOverloaded\bin\Debug\OperatorsOverloaded.pdb
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\OperatorsOverloaded\OperatorsOverloaded\obj\Debug\OperatorsOverloaded.csproj.AssemblyReference.cache
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\OperatorsOverloaded\OperatorsOverloaded\obj\Debug\OperatorsOverloaded.csproj.CoreCompileInputs.cache
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\OperatorsOverloaded\OperatorsOverloaded\obj\Debug\OperatorsOverloaded.exe
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\OperatorsOverloaded\OperatorsOverloaded\obj\Debug\OperatorsOverloaded.pdb
