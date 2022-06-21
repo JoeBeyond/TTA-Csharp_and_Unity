@@ -1,0 +1,7 @@
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\ParametersSubmission\ParametersSubmission\bin\Debug\ParametersSubmission.exe.config
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\ParametersSubmission\ParametersSubmission\bin\Debug\ParametersSubmission.exe
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\ParametersSubmission\ParametersSubmission\bin\Debug\ParametersSubmission.pdb
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\ParametersSubmission\ParametersSubmission\obj\Debug\ParametersSubmission.csproj.AssemblyReference.cache
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\ParametersSubmission\ParametersSubmission\obj\Debug\ParametersSubmission.csproj.CoreCompileInputs.cache
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\ParametersSubmission\ParametersSubmission\obj\Debug\ParametersSubmission.exe
+C:\Users\JoeBeyond\Documents\GitHub\TTA-Csharp_and_Unity\Course_Projects\Basic_C#_Programs\ParametersSubmission\ParametersSubmission\obj\Debug\ParametersSubmission.pdb
