@@ -8,7 +8,9 @@ namespace _21BlackJackGame
 {
     public class Deck
     {
-        public Deck()
+        public List<Card> Cards { get; set; }
+
+        public  Deck()
         {
             Cards = new List<Card>();
             
@@ -23,8 +25,8 @@ namespace _21BlackJackGame
                 }
             }
         }
-        public List<Card> Cards
-        { get; set; }
+        //public List<Card> Cards
+        //{ get; set; }
 
         public void Shuffle( int times = 1)
         {

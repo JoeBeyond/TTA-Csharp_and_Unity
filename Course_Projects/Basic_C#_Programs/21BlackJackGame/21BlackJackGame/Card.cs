@@ -11,8 +11,10 @@ namespace _21BlackJackGame
         public Suit Suit { get; set; }
         public Face Face { get; set; }
 
+        // <p7> [vrsn]0.90 :
         public override string ToString()
         {
+            // <p7> [vrsn]0.90 :
             return string.Format("{0} of {1}", Face
                 , Suit);
         }
