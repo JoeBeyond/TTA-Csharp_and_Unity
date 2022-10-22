@@ -19,11 +19,12 @@ This program takes input for 2 numbers and compares them with arithmetic logic.
 
 ### Noteworthy Assignments completed in CSharp --v
 
-<a href="https://github.com/JoeBeyond/TTA-Csharp_and_Unity/tree/main/Course_Projects/Basic_C%23_Programs/AbstractClass">An example of Abstraction</a><br>
+<a href="https://github.com/JoeBeyond/TTA-Csharp_and_Unity/tree/main/Course_Projects/Basic_C%23_Programs/AbstractClass">Employee Abstraction</a><br>
 This program is an example of abstraction, one of the fundamentals of OOP.
 
 
-<a href=""> </a><br>
+<a href="https://github.com/JoeBeyond/TTA-Csharp_and_Unity/tree/main/Course_Projects/Basic_C%23_Programs/DailyReportSubmission_Assignment.cs">Daily Report Software</a><br>
+This program takes input from the "student" user about their hours and studies.
 
 
 <a href=""> </a><br>
