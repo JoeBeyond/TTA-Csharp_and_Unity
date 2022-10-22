@@ -19,6 +19,7 @@ This program creates conditions for execution under user input in regards to int
 This program allows user input to output data from an enumerator with a surprise for those who stray from the parameters.
 
 <br>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Noteworthy Assignments completed in CSharp --v
 
