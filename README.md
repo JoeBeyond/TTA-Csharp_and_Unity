@@ -18,6 +18,7 @@ This program creates conditions for execution under user input in regards to int
 <a href="https://github.com/JoeBeyond/TTA-Csharp_and_Unity/tree/main/Course_Projects/Basic_C%23_Programs/SwitchStatementChallenge">Silly Enum List</a><br>
 This program allows user input to output data from an enumerator with a surprise for those who stray from the parameters.
 
+<br>
 
 ### Noteworthy Assignments completed in CSharp --v
 
