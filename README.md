@@ -11,7 +11,8 @@ For All Projects pertaining to the CSharp/Unity Course for The Tech Academy.
 This program takes input for 2 numbers and compares them with arithmetic logic.
 
 
-<a href=""> </a><br>
+<a href="https://github.com/JoeBeyond/TTA-Csharp_and_Unity/tree/main/Course_Projects/Basic_C%23_Programs/ConditionalStatementsChallenge">Conditional Statements with Numbers</a><br>
+This program creates conditions for execution under user input in regards to integers.
 
 
 <a href=""> </a><br>
@@ -27,7 +28,8 @@ This program is an example of abstraction, one of the fundamentals of OOP.
 This program takes input from the "student" user about their hours and studies.
 
 
-<a href=""> </a><br>
+<a href="https://github.com/JoeBeyond/TTA-Csharp_and_Unity/tree/main/Course_Projects/Basic_C%23_Programs/LambdaAssignment">Employee IDs/Details</a><br>
+This program defines many employee objects with individual ID's and details such as name. Also prints employee ID's to the console.
 
 
 ## Here is a game I created, enjoy!
