@@ -20,6 +20,7 @@ This program allows user input to output data from an enumerator with a surprise
 
 <br>
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+<br>
 
 ### Noteworthy Assignments completed in CSharp --v
 
