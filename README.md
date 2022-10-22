@@ -8,7 +8,8 @@ For All Projects pertaining to the CSharp/Unity Course for The Tech Academy.
 ### Noteworthy Challenges completed in CSharp --v
 
 
-<a href=""> </a><br>
+<a href="https://github.com/JoeBeyond/TTA-Csharp_and_Unity/tree/main/Course_Projects/Basic_C%23_Programs/TernaryOperatorChallenge">Ternary Comparison</a><br>
+This program takes input for 2 numbers and compares them with arithmetic logic.
 
 
 <a href=""> </a><br>
@@ -28,5 +29,10 @@ For All Projects pertaining to the CSharp/Unity Course for The Tech Academy.
 
 <a href=""> </a><br>
 
+
+### Here is a game I created, enjoy!
+
+<a href="https://github.com/JoeBeyond/TTA-Csharp_and_Unity/tree/main/Course_Projects/Basic_C%23_Programs/21BlackJackGame">Play some BlackJack/21!</a><br>
+This program is a popular variant of poker, fully functioning and able to expand upon in other directions.
 
 -'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-
